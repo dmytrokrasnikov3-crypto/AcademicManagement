@@ -1,0 +1,14 @@
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\bin\Release\net10.0\AcademicManagement.exe
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\bin\Release\net10.0\AcademicManagement.deps.json
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\bin\Release\net10.0\AcademicManagement.runtimeconfig.json
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\bin\Release\net10.0\AcademicManagement.dll
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\bin\Release\net10.0\AcademicManagement.pdb
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.AssemblyInfoInputs.cache
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.AssemblyInfo.cs
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.csproj.CoreCompileInputs.cache
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.dll
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\refint\AcademicManagement.dll
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.pdb
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\AcademicManagement.genruntimeconfig.cache
+C:\Users\dmytr\Desktop\IT\.NET\AcademicManagement\obj\Release\net10.0\ref\AcademicManagement.dll
